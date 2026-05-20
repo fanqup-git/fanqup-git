@@ -6,7 +6,7 @@
 
 ## 🚀 about me
 
-- 🎂 i'm **14 years old**
+- 🎂 i'm **15 years old**
 - 📍 live in **Minsk, Belarus** 
 - 💻 love **coding** and **AI**
 - 🎯 goal: create a high-quality and user-friendly product
